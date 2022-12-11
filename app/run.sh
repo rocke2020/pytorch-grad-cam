@@ -1,0 +1,1 @@
+nohup python cam.py > app/log.log 2>&1 &
